@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/concatenation-of-array/
 
-class Solution {
+class ConcatenationOfArray {
     public int[] getConcatenation(int[] nums) {
         int len = nums.length;
         int[] ans = new int[2*len];

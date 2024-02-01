@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/matrix-diagonal-sum/description/
 
-class Solution {
+class MatrixDiagonalSum {
     public int diagonalSum(int[][] mat) {
         int ans = 0;
         int rows = mat.length;

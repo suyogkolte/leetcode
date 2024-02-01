@@ -1,5 +1,5 @@
 // Source : https://leetcode.com/problems/flipping-an-image/description/
-class Solution {
+class FlipInvertImage {
     public int[][] flipAndInvertImage(int[][] image) {
         int rows = image.length;
         int cols = image[0].length;
