@@ -1,5 +1,5 @@
 // Source : https://leetcode.com/problems/rotate-image/description/
-class Solution {
+class RotateImage {
     public void rotate(int[][] matrix) {
         int rows = matrix.length;
         int cols = matrix[0].length;
