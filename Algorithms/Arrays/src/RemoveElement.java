@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/remove-element/
 
-class Solution {
+class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int i = 0;
         int j = nums.length - 1;

@@ -1,5 +1,5 @@
 // Source : https://leetcode.com/problems/reshape-the-matrix/description/
-class Solution {
+class ReshapeMatrix {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
         int rows = mat.length;
         int cols = mat[0].length;
