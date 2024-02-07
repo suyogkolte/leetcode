@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/running-sum-of-1d-array/description/
 
-class Solution {
+class RunningSumOf1dArray {
     public int[] runningSum(int[] nums) {
         int sum = 0;
         int len = nums.length;

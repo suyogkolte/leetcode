@@ -1,4 +1,5 @@
 // Source : https://leetcode.com/problems/contains-duplicate/description/
+
 import java.util.HashSet;
 class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {

@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/transpose-matrix/description/
 
-class Solution {
+class TransposeMatrix {
     public int[][] transpose(int[][] matrix) {
         int rows = matrix.length;
         int cols = matrix[0].length;

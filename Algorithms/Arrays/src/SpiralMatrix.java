@@ -1,5 +1,9 @@
 // Source : https://leetcode.com/problems/spiral-matrix/description/
-class Solution {
+
+import java.util.List;
+import java.util.ArrayList;
+
+class SpiralMatrix {
     public List<Integer> spiralOrder(int[][] matrix) {
         ArrayList<Integer> ans = new ArrayList<>();
         int m = matrix.length;

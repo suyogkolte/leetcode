@@ -1,5 +1,6 @@
 // Source : https://leetcode.com/problems/toeplitz-matrix/description/
-class Solution {
+
+class ToeplitzMatrix {
     public boolean isToeplitzMatrix(int[][] matrix) {
         int rows = matrix.length;
         int cols = matrix[0].length;
