@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/n-th-tribonacci-number/description/
+
 public class Nth_Tribonacci_Number {
     public int tribonacci(int n) {
         if(n == 0)

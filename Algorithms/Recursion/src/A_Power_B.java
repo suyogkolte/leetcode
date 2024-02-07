@@ -1,4 +1,5 @@
 // Given 2 integer values a and b, write a recursive function to implement a power b
+
 public class A_Power_B {
     public static void main(String[] args) {
         float res = 0;

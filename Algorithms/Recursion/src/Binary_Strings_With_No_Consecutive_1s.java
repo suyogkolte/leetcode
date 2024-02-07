@@ -7,6 +7,7 @@
 
  Note: This is a variation of Fibonacci sequence
  */
+
 public class Binary_Strings_With_No_Consecutive_1s {
     public static void main(String[] args) {
         int n = 4;

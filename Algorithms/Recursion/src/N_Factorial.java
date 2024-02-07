@@ -1,4 +1,5 @@
 //Calculate n factorial
+
 public class N_Factorial {
     public static void main(String[] args) {
         int n = 2;

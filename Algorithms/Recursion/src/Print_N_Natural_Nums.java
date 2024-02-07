@@ -1,4 +1,5 @@
 // Given a number N, print first N natural numbers in decreasing order
+
 public class Print_N_Natural_Nums {
     public static void main(String[] args) {
         int n = 10;
