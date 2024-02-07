@@ -1,5 +1,5 @@
 // Source : https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/
-class Solution {
+class LargestSubstringBetweenTwoEqualChars {
     public int maxLengthBetweenEqualCharacters(String s) {
         int len = s.length();
         int[] indices = new int[26];
