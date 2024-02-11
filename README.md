@@ -39,9 +39,10 @@ LeetCode solutions
 
 
 ## Recursion
-|  #   | Title                                                                                       | Solution                                                                                                     |
-|:----:|:--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Fibonacci_Number.java)      |
-| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Nth_Tribonacci_Number.java) |
-|  70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)               | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Climbing_Stairs.java)       |
+|  #   | Title                                                                                                                     | Solution                                                                                                                  |
+|:----:|:--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                                           | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Fibonacci_Number.java)                   |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)                               | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Nth_Tribonacci_Number.java)              |
+|  70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Climbing_Stairs.java)                    |
+|  17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Letter_Combinations_Of_PhoneNumber.java) |
 
