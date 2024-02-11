@@ -46,4 +46,5 @@ LeetCode solutions
 |  70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Climbing_Stairs.java)                    |
 |  17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Letter_Combinations_Of_PhoneNumber.java) |
 | 386  | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)                                         | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Lexicographical_Numbers.java)            |
+|  22  | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/)                                   | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Generate_Parenthesis.java)               |
 
