@@ -6,6 +6,7 @@ LeetCode solutions
   * [Arrays](#arrays)
   * [Linked List](#linked-list)
   * [Recursion](#recursion)
+  * [Backtracking](#backtracking)
 <!-- TOC -->
 
 ## Arrays
@@ -48,3 +49,9 @@ LeetCode solutions
 | 386  | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)                                         | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Lexicographical_Numbers.java)            |
 |  22  | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/)                                   | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Recursion/src/Generate_Parenthesis.java)               |
 
+
+## Backtracking
+
+| #  | Title                                                                 | Solution                                                                                              |
+|:--:|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Backtracking/src/Word_Search.java) |
