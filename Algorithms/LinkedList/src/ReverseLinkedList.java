@@ -10,9 +10,9 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution1 {
+class ReverseLinkedList {
     // Iterative solution
-    public ListNode reverseList(ListNode head) {
+    public ListNode reverseListIterative(ListNode head) {
         if(head == null)
             return head;
 
@@ -28,17 +28,15 @@ class Solution1 {
         }
         return prev;
     }
-}
 
-class Solution2 {
     // Recursive solution
-    public ListNode reverseList(ListNode head) {
+    public ListNode reverseListRecursive(ListNode head) {
         if(head == null || head.next == null)
         {
             return head;
         }
 
-        ListNode p = reverseList(head.next);
+        ListNode p = reverseListRecursive(head.next);
 
         head.next.next = head;
         head.next = null;
