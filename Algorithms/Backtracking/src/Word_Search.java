@@ -3,6 +3,17 @@
 public class Word_Search {
     private char[][] board;
 
+    public static void main(String[] args) {
+        char[][] board = {{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}};
+        String word = "ABCCED";
+
+        Word_Search ws = new Word_Search();
+        if(ws.exist(board, word))
+            System.out.println(word + " exists in the given board");
+        else
+            System.out.println(word + " doesn't exist in the given board");
+    }
+
     public boolean exist(char[][] board, String word) {
         this.board = board;
 
