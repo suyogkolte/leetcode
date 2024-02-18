@@ -6,9 +6,7 @@ e.g. str: abcxxadxacxe
      o/p: abcadace
  */
 
-import java.util.ArrayList;
-
-public class Print_String_Without__GivenChar {
+public class Print_String_Without_GivenChar {
     public static void main(String[] args) {
         String str = "abcxxadxacxe";
         char ch = 'x';
