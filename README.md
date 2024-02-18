@@ -52,6 +52,7 @@ LeetCode solutions
 
 ## Backtracking
 
-| #  | Title                                                                 | Solution                                                                                              |
-|:--:|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Backtracking/src/Word_Search.java) |
+|  #   | Title                                                                                                                                                 | Solution                                                                                                                  |
+|:----:|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+|  79  | [Word Search](https://leetcode.com/problems/word-search/description/)                                                                                 | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Backtracking/src/Word_Search.java)                     |
+| 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Backtracking/src/Furthest_Building_You_Can_Reach.java) |
