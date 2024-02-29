@@ -4,6 +4,7 @@ LeetCode solutions
 <!-- TOC -->
 * [LeetCode](#leetcode)
   * [Arrays](#arrays)
+  * [Strings](#strings)
   * [Linked List](#linked-list)
   * [Recursion](#recursion)
   * [Backtracking](#backtracking)
@@ -32,6 +33,12 @@ LeetCode solutions
 | 766  | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)                                                     | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/ToeplitzMatrix.java)                  |
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)                                                   | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/TransposeMatrix.java)                 |
 | 167  | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                 | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/TwoSumII.java)                        |
+
+## Strings
+|  #  | Title | Solution                                                                                               |
+|:---:|-------|--------------------------------------------------------------------------------------------------------|
+| 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)       | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/First_Unique_Char.java) |
+
 
 ## Linked List
 |  #  | Title                                                                                             | Solution                                                                                                  |
