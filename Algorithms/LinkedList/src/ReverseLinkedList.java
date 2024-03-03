@@ -2,15 +2,6 @@
 
 import java.util.List;
 
-/** Definition for singly-linked list. */
-class ListNode {
-      int val;
-      ListNode next;
-      ListNode() {}
-      ListNode(int val) { this.val = val; }
-      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-  }
-
 class ReverseLinkedList {
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
@@ -22,12 +13,11 @@ class ReverseLinkedList {
         node2.next = node3;
 
         System.out.println("Original LL is: ");
-        printLinkedList(head);
+        ListNode.printList(head);
         System.out.println();
 
         //System.out.println("Iteratively Reversed LL is:");
-        //printLinkedList(reverseListIterative(head));
-        //System.out.println();
+        //ListNode.printList(reverseListIterative(head));
 
         System.out.println("Recursively Reversed LL is:");
         printLinkedList(reverseListRecursive(head));
