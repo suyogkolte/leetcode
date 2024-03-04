@@ -33,6 +33,7 @@ LeetCode solutions
 | 766  | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)                                                     | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/ToeplitzMatrix.java)                  |
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)                                                   | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/TransposeMatrix.java)                 |
 | 167  | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                 | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/TwoSumII.java)                        |
+| 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/)                                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/Two_City_Scheduling.java)             |
 
 ## Strings
 |  #  | Title | Solution                                                                                               |
