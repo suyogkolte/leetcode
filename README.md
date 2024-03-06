@@ -8,6 +8,7 @@ LeetCode solutions
   * [Linked List](#linked-list)
   * [Recursion](#recursion)
   * [Backtracking](#backtracking)
+  * [Stacks](#stacks)
 <!-- TOC -->
 
 ## Arrays
@@ -36,9 +37,10 @@ LeetCode solutions
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/)                                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/Two_City_Scheduling.java)             |
 
 ## Strings
-|  #  | Title | Solution                                                                                               |
-|:---:|-------|--------------------------------------------------------------------------------------------------------|
-| 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)       | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/First_Unique_Char.java) |
+|  #   | Title                                                                                                                   | Solution                                                                                                              |
+|:----:|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)     | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/First_Unique_Char.java)                |
+| 1614 | [Max Nesting Depth of Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/Max_Nesting_Depth_Of_Parentheses.java) |
 
 
 ## Linked List
@@ -60,7 +62,6 @@ LeetCode solutions
 
 
 ## Backtracking
-
 |  #   | Title                                                                                                                                                 | Solution                                                                                                                  |
 |:----:|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 |  79  | [Word Search](https://leetcode.com/problems/word-search/description/)                                                                                 | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Backtracking/src/Word_Search.java)                     |
@@ -70,3 +71,8 @@ LeetCode solutions
 |  39  | [Combination Sum](https://leetcode.com/problems/combination-sum/description/)                                                                         | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Backtracking/src/Combinations.java)                    |
 |  51  | [N-Queens](https://leetcode.com/problems/n-queens/description/)                                                                                       | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Backtracking/src/N_Queens.java)                        |
 | 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                                                         | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Backtracking/src/Palindrome_Partitioning.java)         |
+
+## Stacks
+| #   | Title                                                                     | Solution                                                                                          |
+|-----|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Stacks/src/Decode_String.java) |
