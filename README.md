@@ -35,6 +35,7 @@ LeetCode solutions
 | 867  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)                                                   | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/TransposeMatrix.java)                 |
 | 167  | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                 | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/TwoSumII.java)                        |
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/)                                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/Two_City_Scheduling.java)             |
+| 1756 | [Design MRU queue](https://leetcode.com/problems/design-most-recently-used-queue/)                                                | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/MRUQueue.java)                        |
 
 ## Strings
 |  #   | Title                                                                                                                   | Solution                                                                                                              |
