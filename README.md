@@ -9,6 +9,7 @@ LeetCode solutions
   * [Recursion](#recursion)
   * [Backtracking](#backtracking)
   * [Stacks](#stacks)
+  * [Heaps](#heaps)
 <!-- TOC -->
 
 ## Arrays
@@ -77,3 +78,10 @@ LeetCode solutions
 | #   | Title                                                                     | Solution                                                                                          |
 |-----|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Stacks/src/Decode_String.java) |
+
+## Heaps
+
+| #   | Title                                                                                                         | Solution                                                                                               |
+|-----|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 215 | [Kth Largest Element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Heaps/src/Kth_Largest_Element.java) |
+|     |                                                                                                               |                                                                                                        |
