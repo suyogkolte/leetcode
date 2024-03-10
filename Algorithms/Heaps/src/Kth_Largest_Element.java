@@ -11,6 +11,7 @@ public class Kth_Largest_Element {
     }
 
     public static int findKthLargest(int[] nums, int k) {
+        // Use min heap
         PriorityQueue<Integer> heap = new PriorityQueue<>();
 
         for(int num : nums) {
