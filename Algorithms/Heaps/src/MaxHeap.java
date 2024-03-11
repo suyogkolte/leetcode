@@ -38,7 +38,7 @@ public class MaxHeap {
     public void insertKey(int key) {
         // To check whether the key can be inserted or not.
         if(heapSize == maxSize) {
-            System.out.println("Overflow: could not inset key");
+            System.out.println("Overflow: could not insert key");
             return;
         }
 
