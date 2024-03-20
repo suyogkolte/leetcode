@@ -27,7 +27,7 @@
 |    Tim sort    |         O(n)         |        O(nlogn)         |        O(nlogn)        |          O(n)          |
 |   Shell sort   |         O(n)         |  O((nlogn)<sup>2</sup>  | O((nlogn)<sup>2</sup>  |          O(1)          |
 
-![Big O complexity chart](Images/Big O complexity chart.png)
+![Big O complexity chart](https://github.com/suyogkolte/leetcode/blob/main/Images/Big%20O%20complexity%20chart.png)
 
 ## Searching
 ### Binary Search
