@@ -2,12 +2,6 @@
 
 ## Time complexities of different data structures
 
-| Data Structure | Insertion | Deletion | Indexing | Search | Optimized Search |
-|:--------------:|:---------:|:--------:|:--------:|:------:|:----------------:|
-|     Array      |   O(n)    |   O(n)   |   O(1)   |  O(n)  |     O(log n)     |
-|                |           |          |          |        |                  |
-|                |           |          |          |        |                  |
-
 
 ## Time and space complexity of searching and sorting
 
