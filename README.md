@@ -10,6 +10,7 @@ LeetCode solutions
   * [Backtracking](#backtracking)
   * [Stacks](#stacks)
   * [Heaps](#heaps)
+  * [Searching](#searching)
 <!-- TOC -->
 
 ## Arrays
@@ -85,3 +86,10 @@ LeetCode solutions
 |-----|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | 215 | [Kth Largest Element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Heaps/src/Kth_Largest_Element.java) |
 |     |                                                                                                               |                                                                                                        |
+
+## Searching
+
+| #   | Title                                                                             | Solution                                                                                                 |
+|-----|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Searching/src/Find_Peak_Element.java) |
+|     |                                                                                   |                                                                                                          |
