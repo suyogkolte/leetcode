@@ -89,7 +89,7 @@ LeetCode solutions
 
 ## Searching
 
-| #   | Title                                                                             | Solution                                                                                                 |
-|-----|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Searching/src/Find_Peak_Element.java) |
-|     |                                                                                   |                                                                                                          |
+| #   | Title                                                                                                         | Solution                                                                                                              |
+|-----|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Searching/src/Find_Peak_Element.java)              |
+| 852 | [Peak Element in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Searching/src/Peak_Index_In_A_Mountain_Array.java) |
