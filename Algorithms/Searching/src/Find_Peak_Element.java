@@ -1,7 +1,5 @@
 // Source : https://leetcode.com/problems/find-peak-element/description/
 
-import java.util.Spliterator;
-
 public class Find_Peak_Element  {
     public static void main(String[] args) {
         int[] nums = {1,2,1,3,5,6,4};
