@@ -11,7 +11,7 @@ That means the sqrt(x) will lie in between 0 and x
 
 public class Binary_Search_Over_Answer {
     public static void main(String[] args) {
-        int x = 81;
+        int x = 2147395600;
         if(checkIfSquare(x, 0, x))
             System.out.println("The given number x is a square of an int");
         else
@@ -21,10 +21,11 @@ public class Binary_Search_Over_Answer {
     private static boolean checkIfSquare(int x, int l, int r) {
         while(l <= r){
             int mid = l + (r - l)/2;
+            long midSquare = (long)mid * mid;
 
-            if(mid * mid == x)
+            if(midSquare == x)
                 return true;
-            else if(mid * mid > x)
+            else if(midSquare > x)
                 r = mid - 1;
             else
                 l = mid + 1;
