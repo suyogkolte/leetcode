@@ -2,7 +2,8 @@
 
 public class Minimum_Adjacent_Swaps_to_Make_a_Valid_Array {
     public static void main(String[] args) {
-        int[] nums = {3,4,5,5,3,1};
+        //int[] nums = {3,4,5,5,3,1};
+        int[] nums = {10,10,10};
 
         int minIdx = 0;
         int maxIdx = nums.length - 1;
@@ -10,7 +11,10 @@ public class Minimum_Adjacent_Swaps_to_Make_a_Valid_Array {
         for (int i = 1; i < nums.length; i++){
             if(nums[i] < nums[minIdx])
                 minIdx = i;
-            if(nums[i] >= nums[maxIdx])
+        }
+
+        for(int i = nums.length - 2; i >= 0; i--){
+            if(nums[i] > nums[maxIdx])
                 maxIdx = i;
         }
 
