@@ -41,11 +41,12 @@ LeetCode solutions
 | 2340 | [Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Arrays/src/Minimum_Adjacent_Swaps_to_Make_a_Valid_Array.java) |      O(n)       |       O(1)       |
 
 ## Strings
-|  #   | Title                                                                                                                   | Solution                                                                                                              | Time complexity | Space complexity |
-|:----:|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:---------------:|:----------------:|
-| 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)     | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/First_Unique_Char.java)                |                 |                  |
-| 1614 | [Max Nesting Depth of Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/Max_Nesting_Depth_Of_Parentheses.java) |                 |                  |
-| 2055 | [Plates between candles](https://leetcode.com/problems/plates-between-candles/description/)                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/Plates_Between_Candles.java)           |    O(n + q)     |     O(n + q)     |
+|  #   | Title                                                                                                                   | Solution                                                                                                              | Time complexity | Space complexity  |
+|:----:|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:---------------:|:-----------------:|
+| 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)     | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/First_Unique_Char.java)                |                 |                   |
+| 1614 | [Max Nesting Depth of Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/Max_Nesting_Depth_Of_Parentheses.java) |                 |                   |
+| 2055 | [Plates between candles](https://leetcode.com/problems/plates-between-candles/description/)                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/Plates_Between_Candles.java)           |    O(n + q)     |     O(n + q)      |
+| 2268 | [Minimum Number of Keypresses](https://leetcode.com/problems/minimum-number-of-keypresses/)                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/Minimum_Number_of_Keypresses.java)     |      O(n)       | O(m) where m = 26 |
 
 
 ## Linked List
