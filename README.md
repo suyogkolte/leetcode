@@ -54,6 +54,7 @@ LeetCode solutions
 |:---:|:--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/LinkedList/src/ReverseLinkedList.java) |
 | 141 | [Linked List cycle](https://leetcode.com/problems/linked-list-cycle/description/)     | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/LinkedList/src/Linked_List_Cycle.java) |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                 | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/LinkedList/src/LRU_Cache.java)         |
 
 
 ## Recursion
