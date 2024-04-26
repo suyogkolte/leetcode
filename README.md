@@ -47,6 +47,7 @@ LeetCode solutions
 | 1614 | [Max Nesting Depth of Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/Max_Nesting_Depth_Of_Parentheses.java) |                 |                   |
 | 2055 | [Plates between candles](https://leetcode.com/problems/plates-between-candles/description/)                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/Plates_Between_Candles.java)           |    O(n + q)     |     O(n + q)      |
 | 2268 | [Minimum Number of Keypresses](https://leetcode.com/problems/minimum-number-of-keypresses/)                             | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/Minimum_Number_of_Keypresses.java)     |      O(n)       | O(m) where m = 26 |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                               | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Strings/src/ValidAnagram.java)                     |    O(nlogn)     |       O(n)        |
 
 
 ## Linked List
