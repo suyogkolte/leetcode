@@ -55,32 +55,30 @@ public class Rotting_Oranges {
         int[][] dir = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 
         while(!q.isEmpty()){
-            int size = q.size();
-            while (size > 0) {
-                Point curr = q.poll();
-                time = curr.time + 1;
+            Point curr = q.poll();
+            time = curr.time + 1;
 
-                for (int i = 0; i < 4; i++) {
-                    int newR = curr.x + dir[i][0];
-                    int newC = curr.y + dir[i][1];
+            for (int i = 0; i < 4; i++) {
+                int newR = curr.x + dir[i][0];
+                int newC = curr.y + dir[i][1];
 
-                    if (newR >= 0 && newC >= 0 && newR < grid.length && newC < grid[0].length && grid[newR][newC] == 1) {
-                        // Make the fresh orange rotten
-                        grid[newR][newC] = 2;
+                if (newR >= 0 && newC >= 0 && newR < grid.length && newC < grid[0].length && grid[newR][newC] == 1) {
+                    // Make the fresh orange rotten
+                    grid[newR][newC] = 2;
+                    nFreshOranges--;
 
-                        // add neighbor to BFS queue
-                        q.add(new Point(newR, newC, time));
-                    }
+                    // add neighbor to BFS queue
+                    q.add(new Point(newR, newC, time));
                 }
-                size--;
             }
-            time++;
         }
-        return time;
+        return nFreshOranges > 0 ? -1 :  (time - 1);
     }
 
     public static void main(String[] args) {
         int[][] grid = {{2,1,1},{1,1,0},{0,1,1}};
+        //int[][] grid = {{2,1,1},{0,1,1},{1,0,1}};
+        //int[][] grid = {{0,2}};
         System.out.println(orangesRotting(grid));
     }
 }
