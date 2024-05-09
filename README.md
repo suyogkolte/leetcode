@@ -104,3 +104,15 @@ LeetCode solutions
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)   | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Searching/src/Find_Minimum_in_Rotated_Sorted_Array.java) |    O(log n)     |       O(1)       |
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                   | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Searching/src/Sqrt_Of_x.java)                            |    O(log n)     |       O(1)       |
 |     | [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/)                                                     | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/Searching/src/AggressiveCows.java)                       |                 |                  |
+
+## Graphs
+
+| #   | Title                                                                             | Solution                                                                                                           | Time complexity | Space complexity |
+|-----|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|:---------------:|:----------------:|
+| 200 | [Number of islands](https://leetcode.com/problems/number-of-islands/description/) | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/JavaDSA/src/Graphs_Pkg/Number_Of_Islands.java)  |                 |                  |
+| 130 | [Surrounded regions](https://leetcode.com/problems/surrounded-regions/)           | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/JavaDSA/src/Graphs_Pkg/Surrounded_Regions.java) |                 |                  |
+| 542 | [01 matrix](https://leetcode.com/problems/01-matrix/description/)                 | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/JavaDSA/src/Graphs_Pkg/Zero_One_Matrix.java)    |                 |                  |
+| 994 | [Rotting oranges](https://leetcode.com/problems/rotting-oranges/description/)     | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/JavaDSA/src/Graphs_Pkg/Rotting_Oranges.java)    |                 |                  |
+| 286 | [Walls and gates](https://leetcode.com/problems/walls-and-gates/)                 | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/JavaDSA/src/Graphs_Pkg/Walls_and_Gates.java)    |                 |                  |
+| 934 | [Shortest bridge](https://leetcode.com/problems/shortest-bridge/description/)     | [Java](https://github.com/suyogkolte/leetcode/blob/main/Algorithms/JavaDSA/src/Graphs_Pkg/Shortest_Bridge.java)    |                 |                  |
+|     |                                                                                   |                                                                                                                    |                 |                  |
