@@ -21,7 +21,7 @@ public class Map_of_Highest_Peak {
         int landCount = 0;
         int cellCount = rows * cols;
         int[][] res = new int[rows][cols];
-        
+
         Queue<Point> q = new LinkedList<>();
         for(int i = 0; i < rows; i++){
             for(int j = 0; j < cols; j++){
